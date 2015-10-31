@@ -5,9 +5,9 @@
 > $git add *
 ###提交第一个版本
 > $ git commit -m '第一个初始版本'
-###如果要重命名文件
+###如果要重命名文件(尚未提交加--cache)
 > $git rm gitlearn.md --cache
 或者用:
-> $git mv
+> $git mv gitlearn.md gitlearn01.md
 ###Git Status 中文乱码解决
 > $git config --global core.quotepath false
