@@ -18,7 +18,7 @@
 > git commit -a -m 'added new benchmarks'
 git commit 加上-a 选项，Git 就会自动把所有已经跟踪过的文件暂存起来一并提交，从而跳过git add 步骤
 
-###如果要重命名文件(尚未提交加--cached)
+####如果要重命名文件(尚未提交加--cached)
 > git rm gitlearn.md --cached
 
 或者用:
@@ -35,7 +35,8 @@ git commit 加上-a 选项，Git 就会自动把所有已经跟踪过的文件�
 
 #### <i class="icon-file"></i>查看提交历史
 
-> git log
+> git log  
+> git log --pretty=oneline --abbrev-commit //可以简化输出为一行并简化id
 
 一个常用的选项是-p，用来显示每次提交的内容差异。你也可以加上-2 来仅显示最近两次提交：
 > git log -p -2 (注意需要按q退出命令模式)
