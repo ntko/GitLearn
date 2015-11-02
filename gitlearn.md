@@ -18,7 +18,7 @@
 > git commit -a -m 'added new benchmarks'
 git commit 加上-a 选项，Git 就会自动把所有已经跟踪过的文件暂存起来一并提交，从而跳过git add 步骤
 
-###如果要重命名文件(尚未提交加--cached)
+####如果要重命名文件(尚未提交加--cached)
 > git rm gitlearn.md --cached
 
 或者用:
