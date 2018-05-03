@@ -5,6 +5,8 @@
 * [廖雪峰的git教程](http://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b000)
 * [GIT 的常规操作](http://www.cnblogs.com/wang_yb/p/3867221.html)
 * [Git回滚远程版本](http://www.cnblogs.com/Alandre/p/5370274.html)
+* [git rebase简介(基本篇)](https://blog.csdn.net/hudashi/article/details/7664631)
+* [git rebase 使用详解](https://blog.csdn.net/chenansic/article/details/44122107)
 
 ### 本地使用Git,并备份到Github
 #### <i class="icon-file"></i>在现有目录中初始化仓库
