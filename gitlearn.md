@@ -1,4 +1,5 @@
 ### Git相关资源
+* <https://indepth.dev/becoming-a-git-pro-part-1-internal-git-architecture/>
 * [使用git和github进行协同开发流程](http://segmentfault.com/a/1190000002413519)  
 * [使用git和github管理自己的项目---基础操作学习](http://segmentfault.com/a/1190000003728094)  
 * [使用git和github管理自己的项目---真实开发环境的策略](http://segmentfault.com/a/1190000003739324)  
